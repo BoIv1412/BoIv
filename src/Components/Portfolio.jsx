@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/coding.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A way of life, coding.";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Skills and Computers for All, UNHCR Internship",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An internship that was pretty much amazing. Although it was something that I was doing for the first time and was not part of my IT studies, I did it fantasticly. We were fixing hardware problems and installing software on computers that were unusable and then we gave them to asylum seekers and poor families, which were of an extreme need of a computer. ",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JavaScript Academy",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have successfully completed the JavaScript Academy at one of the best IT companies in my country. I have learned a lot about HTML, CSS, JS and then implementing API's using Node.js and React.js. Also I tried out working with MongoDB.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "Cyber Security Internship",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An amazing internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
+    url: "",
   },
 ];
 
