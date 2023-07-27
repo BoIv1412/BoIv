@@ -48,6 +48,12 @@ const projectList = [
       "An amazing internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
     url: "",
   },
+  {
+    title: "Cyber Security Internship",
+    description:
+      "An amazing internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
+    url: "",
+  },
 ];
 
 const Portfolio = () => {
