@@ -23,7 +23,7 @@ const imageAltText = "Minimalistic and modern background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a software enginnering student studying at American College Skopje. Creating modern, minimalistic and amazing web pages and content.";
+  "I'm a software enginnering student studying at American College Skopje. Creating modern, minimalistic, responsive web pages and content.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,8 +34,10 @@ const skillsList = [
   "Team-work",
   "Leadership",
   "Web API's",
-  "Backend and frontend developer",
-  "Sharing unique experiences and ideas",
+  "Digital Design",
+  "Unique ideas",
+  "Creativity",
+  "Hard-work",
 ];
 
 /**
@@ -44,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am very passionate about the work that I am doing. Everyday I try to become better at the job I love the most and that is creating exclusive and modernistic web pages and even better user experience.";
+  "I am very passionate about the work that I am doing. Everyday, I try to become better at the job I love the most and that is, creating exclusive, modernistic web pages and improving user experience.";
 
 const About = () => {
   return (

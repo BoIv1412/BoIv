@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/code.jpg";
+import image from "../images/coding.jpg";
 
 const imageAltText = "A way of life, coding.";
 
@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "Cyber Security Internship",
     description:
-      "A wonderful internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
+      "A wonderful internship at one of the biggest banks in my country, Stopanska Bank. Worked with banking systems while improving their security with different mechanisims.",
     url: "",
   },
   {
