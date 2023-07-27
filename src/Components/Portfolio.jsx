@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/coding.jpg";
+import image from "../images/code.jpg";
 
 const imageAltText = "A way of life, coding.";
 
@@ -45,13 +45,13 @@ const projectList = [
   {
     title: "Cyber Security Internship",
     description:
-      "An amazing internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
+      "A wonderful internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
     url: "",
   },
   {
-    title: "Cyber Security Internship",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "An amazing internship at one of the biggest banks in my country, Stopanska Bank. I have worked with banking systems and the improvement of their security with different mechanisims.",
+      "A new and very exciting journey that I have just started.",
     url: "",
   },
 ];
