@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "JavaScript Academy",
     description:
-      "I have successfully completed the JavaScript Academy at one of the best IT companies in my country. I have learned a lot about HTML, CSS, JS and then implementing API's using Node.js and React.js. Also I tried out working with MongoDB.",
+      "I have successfully completed the JavaScript Academy at one of the best IT companies in my country. I have learned a lot about HTML, CSS, JS and successfully completed tasks with Node.js and React.js. Worked with MongoDB as a non-SQL database.
     url: "",
   },
   {
