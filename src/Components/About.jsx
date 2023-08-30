@@ -23,7 +23,7 @@ const imageAltText = "Minimalistic and modern background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " Software enginnering student studying at American College Skopje. "
+  " Software enginnering student studying at University American College Skopje. "
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
