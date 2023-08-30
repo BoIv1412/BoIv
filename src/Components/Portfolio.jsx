@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Microsoft Learn Student Ambassador",
     description:
-      "A new and very exciting journey that I have just started.",
+      "A new and very exciting journey that I have just started. Have successfully advanced to Alpha and eager for more challenges in the upcoming months.",
     url: "",
   },
 ];
