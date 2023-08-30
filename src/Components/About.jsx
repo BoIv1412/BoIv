@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am very passionate about the work that I am doing. Learning, exploring and also making a change in the world of today's technology is my biggest motivation for improving my career and excelling at the highest level."
+  "I am very passionate about the work that I am doing. Learning, exploring and also making a change in the world of today's technology is my biggest motivation for improving my career and excelling at the highest level";
 
 const About = () => {
   return (
