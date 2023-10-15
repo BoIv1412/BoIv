@@ -27,7 +27,7 @@ const siteProps = {
   name: "Bojan Ivanovski",
   title: "Software Engineer",
   email: "bojan14.ivanovski@gmail.com",
-  gitHub: "https://github.com/BoIv1412/BoIv",
+  gitHub: "https://github.com/BoIv1412",
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/bojan-ivanovski-069a26267/",
   medium: "",
